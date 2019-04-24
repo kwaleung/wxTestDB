@@ -1,12 +1,10 @@
 {
-    "posts": [
-      { "id": 1, "title": "This is" },
-      { "id": 2, "title": "for testing" },
-      { "id": 3, "title": "wx RESTful" }
+    "question": [
+      { "id": 1, "title": "Elon passes you the BOOF, accept?" }
     ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
+    "options": [
+      { "id": 1, "option":"YEET", "questionID":"1" },
+      { "id": 2, "option":"It's 420 time BABY", "questionID":"1" }
     ],
     "profile": {
       "name": "wx"
