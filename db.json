@@ -1,0 +1,14 @@
+{
+    "posts": [
+      { "id": 1, "title": "This is" },
+      { "id": 2, "title": "for testing" },
+      { "id": 3, "title": "wx RESTful" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "wx"
+    }
+  }
