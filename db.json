@@ -6,9 +6,6 @@
       { "id": 1, "option":"YEET", "questionID":"1" },
       { "id": 2, "option":"It's 420 time BABY", "questionID":"1" }
     ],
-    "profile": {
-      "name": "wx"
-    },
     "htc":{
       "title": "Viveport",
       "imgsrc": "https://cdn.uploadvr.com/wp-content/uploads/2016/11/Viveport2-1024x576.jpg"
